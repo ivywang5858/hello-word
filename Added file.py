@@ -1,3 +1,2 @@
 print("Hello")
-print("Hello again")
-print("conflict")
+print("Ivy Test")
